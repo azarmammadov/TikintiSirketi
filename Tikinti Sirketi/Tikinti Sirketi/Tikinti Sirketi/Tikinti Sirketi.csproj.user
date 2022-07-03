@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Anbar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Anbardar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="anbaremeliyyat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="anbaroperator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bizimlə Əlaqə.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dizayn və Layihələr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="emeliyyat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="emmelbaxs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hesaba giriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="insan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="iscimelumat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musterisorgu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Operator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tikintimqiy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

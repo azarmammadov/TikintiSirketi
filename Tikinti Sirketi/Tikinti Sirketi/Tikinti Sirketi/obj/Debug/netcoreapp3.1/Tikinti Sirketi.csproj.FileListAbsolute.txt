@@ -1,0 +1,36 @@
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\bin\Debug\netcoreapp3.1\Tikinti Sirketi.exe
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\bin\Debug\netcoreapp3.1\Tikinti Sirketi.deps.json
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\bin\Debug\netcoreapp3.1\Tikinti Sirketi.runtimeconfig.json
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\bin\Debug\netcoreapp3.1\Tikinti Sirketi.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\bin\Debug\netcoreapp3.1\Tikinti Sirketi.dll
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\bin\Debug\netcoreapp3.1\Tikinti Sirketi.pdb
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti Sirketi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti_Sirketi.Anbar.resources
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti_Sirketi.Anbardar.resources
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti_Sirketi.Bizimlə_Əlaqə.resources
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti_Sirketi.Dizayn_və_Layihələr.resources
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti_Sirketi.emeliyyat.resources
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti_Sirketi.emmelbaxs.resources
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti_Sirketi.Hesaba_giriş.resources
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti_Sirketi.insan.resources
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti_Sirketi.iscimelumat.resources
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti_Sirketi.Musterisorgu.resources
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti_Sirketi.Operator.resources
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti_Sirketi.Properties.Resources.resources
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti_Sirketi.tikintimqiy.resources
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti Sirketi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti Sirketi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti Sirketi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti Sirketi.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti Sirketi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti Sirketi.dll
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti Sirketi.pdb
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti Sirketi.genruntimeconfig.cache
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti_Sirketi.anbaremeliyyat.resources
+C:\Users\HP\Desktop\Tikinti Sirketi\Tikinti Sirketi\Tikinti Sirketi\obj\Debug\netcoreapp3.1\Tikinti_Sirketi.anbaroperator.resources
